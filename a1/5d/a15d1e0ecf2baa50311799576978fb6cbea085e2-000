@@ -1,0 +1,258 @@
+{
+  "recordedOn": "12 October 2026",
+  "sessionId": "01a124f0-0c66-7462-b1ff-038af6783afb",
+  "status": "blocked-message-rate-limit",
+  "maxOfferEuro": 850,
+  "offerRule": "min(850, asking price)",
+  "sentToday": [
+    {
+      "id": "3286805560",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3285855409",
+      "offerEuro": 745,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3286009611",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3266688011",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3285636974",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3260446232",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3215428475",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3149676274",
+      "offerEuro": 800,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3247110461",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3010345875",
+      "offerEuro": 800,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "2993003610",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3022473331",
+      "offerEuro": 750,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "2985524462",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3225389438",
+      "offerEuro": 640,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3153769209",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "2937371401",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3096338248",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3200158860",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "2983049348",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3284727869",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "2940482408",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3285626947",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3286371386",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3286968183",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3285108023",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3273911713",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3286181870",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3285352252",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    },
+    {
+      "id": "3284091942",
+      "offerEuro": 850,
+      "proof": "Leboncoin success confirmation"
+    }
+  ],
+  "alreadyContactedToday": [
+    "3284769755",
+    "3282407196",
+    "3249077183",
+    "2973304558",
+    "3267235523",
+    "3286448317",
+    "3192024642",
+    "3203622350",
+    "3245590200",
+    "3018274929",
+    "3271863926",
+    "3283317584",
+    "3279857657",
+    "3273550765",
+    "3277571382",
+    "3249608262",
+    "2970070779",
+    "2994109010",
+    "3018274749",
+    "2995464225"
+  ],
+  "previouslyContacted": [
+    "3285387209",
+    "3282642718",
+    "3277750270",
+    "3281330354",
+    "3253458605",
+    "3275368942",
+    "3281047354",
+    "3282673357",
+    "3283236548",
+    "3274030711",
+    "3230185374",
+    "3282611264",
+    "3277442133",
+    "3274928634"
+  ],
+  "failedToday": [
+    {
+      "id": "3143517581",
+      "offerEuro": 660
+    },
+    {
+      "id": "2943088556",
+      "offerEuro": 850
+    },
+    {
+      "id": "3286205772",
+      "offerEuro": 850
+    },
+    {
+      "id": "3240508263",
+      "offerEuro": 850
+    },
+    {
+      "id": "2985163077",
+      "offerEuro": 850
+    },
+    {
+      "id": "3279289374",
+      "offerEuro": 850
+    },
+    {
+      "id": "3155929428",
+      "offerEuro": 850
+    }
+  ],
+  "remaining4080": [
+    "2913351126",
+    "3041415466",
+    "3271093106",
+    "3231988974"
+  ],
+  "remaining5070": [
+    "3179989304",
+    "3283411826",
+    "3274444145",
+    "3101821669",
+    "2997281914",
+    "3275134836",
+    "3281697735",
+    "3191247978",
+    "2947256699",
+    "3280013227",
+    "2969618981",
+    "2995662417",
+    "3281483032",
+    "3286029025",
+    "3151813319",
+    "2998532356",
+    "3276566011"
+  ],
+  "manualReview5070": [],
+  "excludedAccessories": [
+    "3240322613",
+    "3229644738",
+    "3220433090"
+  ],
+  "captchaId": "4a6a9bb1-80a1-7b6c-3af6-3ff82b7f59c9",
+  "currentAdId": "3286968183",
+  "nextAction": "After normal lifting of the Leboncoin message restriction, resume 21 pending ads and retry 7 failed sends. Preserve deduplication and min(850, asking price).",
+  "captchaResolved": true,
+  "blockProof": "Nous remarquons que vous contactez trop d’annonces en un temps réduit. Par conséquent, nous bloquons momentanément l’envoi de vos messages."
+}
